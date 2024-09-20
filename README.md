@@ -9,4 +9,6 @@
   />
 ```
 
-```editioncrafter process texts/ElyGreenMS.xml ec https://performant-software.github.io/elygreen-variorum-data/ec```
+```editioncrafter process texts\RBOC-Draft-Fragments-100.xml ec https://performant-software.github.io/rboc-data/ec```
+
+```editioncrafter process texts\RBOC-Final-Manuscript-99.xml ec https://performant-software.github.io/rboc-data/ec```

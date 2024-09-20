@@ -756,7 +756,7 @@
 		<zone xml:id="rboc-d_92_z021" ulx="3609" uly="6706" lrx="3832" lry="6793"/>
 	</surface>
 </facsimile>
-<text><body><div>
+<text xml:id="transcription"><body><div>
 <milestone n="1" unit="chapter"/><pb facs="#rboc-d_02"/><ab rend="top"><metamark place="margin-top" function="foliation" rend="ink" change="dStA" facs="#rboc-d_02_z010">2.</metamark></ab><ab><lb/>come aroun' in behint 'em<add place="above" rend="caret ink" hand="#SC" change="dstX" facs="#rboc-d_02_z024">"</add>.
 <lb/>To his attentive audience, he drew a loud and elabor-
 <lb/>ate plan of a very <del rend="strikethrough ink" hand="#SC" change="dStB" facs="#rboc-d_02_z025">successful</del> brilliant campaign.
