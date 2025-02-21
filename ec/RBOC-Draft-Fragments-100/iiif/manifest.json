@@ -20,22 +20,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_02.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/wrh77796n97oknbers5e03revu29;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6674,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_02.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_02.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/wrh77796n97oknbers5e03revu29;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -46,8 +38,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6674,
 			"label": {
 				"none": [
 					"d_02"
@@ -263,22 +255,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_04.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/x0d2ci787tfq900agtzhaib0wiue;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6665,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_04.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_04.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/x0d2ci787tfq900agtzhaib0wiue;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -289,8 +273,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6665,
 			"label": {
 				"none": [
 					"d_04"
@@ -529,22 +513,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_05.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/weswr1ior8xkubtrg1h8qbjaytxh;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6701,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_05.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_05.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/weswr1ior8xkubtrg1h8qbjaytxh;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -555,8 +531,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6701,
 			"label": {
 				"none": [
 					"d_05"
@@ -611,22 +587,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_06.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/lif0q3aptfbdm7x15jmgeuezqu2z;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6677,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_06.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_06.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/lif0q3aptfbdm7x15jmgeuezqu2z;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -637,8 +605,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6677,
 			"label": {
 				"none": [
 					"d_06"
@@ -1015,22 +983,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_07.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/ncp5lf3gff1c0e4cddqnh1netobm;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6689,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_07.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_07.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/ncp5lf3gff1c0e4cddqnh1netobm;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -1041,8 +1001,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6689,
 			"label": {
 				"none": [
 					"d_07"
@@ -1281,22 +1241,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_08.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/h3uexfj3r6fjiiirr9y006qv6kc9;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6683,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_08.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_08.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/h3uexfj3r6fjiiirr9y006qv6kc9;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -1307,8 +1259,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6683,
 			"label": {
 				"none": [
 					"d_08"
@@ -1616,22 +1568,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_10.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/hj18wlkrdlhq873utkd26ttpgdew;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6644,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_10.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_10.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/hj18wlkrdlhq873utkd26ttpgdew;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -1642,8 +1586,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6644,
 			"label": {
 				"none": [
 					"d_10"
@@ -1882,22 +1826,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_11.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/30utnoo9u48uu3o1p2sq1wn5tb0o;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6675,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_11.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_11.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/30utnoo9u48uu3o1p2sq1wn5tb0o;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -1908,8 +1844,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6675,
 			"label": {
 				"none": [
 					"d_11"
@@ -2194,22 +2130,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_12.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/tnvzthardcuf2ex1hodb4io7pezd;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6651,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_12.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_12.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/tnvzthardcuf2ex1hodb4io7pezd;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -2220,8 +2148,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6651,
 			"label": {
 				"none": [
 					"d_12"
@@ -2506,22 +2434,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_13.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/051huyx4dqu585vkuuad30awzw31;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6692,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_13.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_13.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/051huyx4dqu585vkuuad30awzw31;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -2532,8 +2452,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6692,
 			"label": {
 				"none": [
 					"d_13"
@@ -2726,22 +2646,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_14.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/xs6pwlakzct4ki9pdh81zkh6y0y1;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6689,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_14.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_14.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/xs6pwlakzct4ki9pdh81zkh6y0y1;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -2752,8 +2664,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6689,
 			"label": {
 				"none": [
 					"d_14"
@@ -2877,22 +2789,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_15.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/esjx7ao9mil8mw4i3ufnbdmkaaa0;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6672,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_15.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_15.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/esjx7ao9mil8mw4i3ufnbdmkaaa0;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -2903,8 +2807,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6672,
 			"label": {
 				"none": [
 					"d_15"
@@ -2946,55 +2850,6 @@
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/rboc-data/ec/RBOC-Draft-Fragments-100/iiif/canvas/rboc-d_16",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/rboc-data/ec/RBOC-Draft-Fragments-100/iiif/canvas/rboc-d_16/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/rboc-data/ec/RBOC-Draft-Fragments-100/iiif/canvas/rboc-d_16/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_16.tif",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": null,
-								"width": null,
-								"service": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_16.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_16.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/rboc-data/ec/RBOC-Draft-Fragments-100/iiif/canvas/rboc-d_16"
-						}
-					]
-				}
-			],
-			"height": null,
-			"width": null,
-			"label": {
-				"none": [
-					"d_16"
-				]
-			},
-			"annotations": []
-		},
-		{
 			"id": "https://performant-software.github.io/rboc-data/ec/RBOC-Draft-Fragments-100/iiif/canvas/rboc-d_22",
 			"type": "Canvas",
 			"items": [
@@ -3008,22 +2863,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_22.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/tgb8l72abnzekqbhig5xom5adb3q;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6699,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_22.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_22.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/tgb8l72abnzekqbhig5xom5adb3q;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -3034,8 +2881,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6699,
 			"label": {
 				"none": [
 					"d_22"
@@ -3090,22 +2937,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_23.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/jwr20jxr178dd1lmxkdbfxj3swmr;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6676,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_23.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_23.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/jwr20jxr178dd1lmxkdbfxj3swmr;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -3116,8 +2955,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6676,
 			"label": {
 				"none": [
 					"d_23"
@@ -3172,22 +3011,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_28.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/cvt9q944yboedy6wl0in2pcwp6dz;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6648,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_28.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_28.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/cvt9q944yboedy6wl0in2pcwp6dz;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -3198,8 +3029,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6648,
 			"label": {
 				"none": [
 					"d_28"
@@ -3254,22 +3085,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_29.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/psgtrx836xcb0cu54zmz8om9vav0;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6666,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_29.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_29.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/psgtrx836xcb0cu54zmz8om9vav0;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -3280,8 +3103,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6666,
 			"label": {
 				"none": [
 					"d_29"
@@ -3336,22 +3159,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_36.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/2rfuzk7n3y5xhypcgen6vsdp5pii;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6644,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_36.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_36.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/2rfuzk7n3y5xhypcgen6vsdp5pii;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -3362,8 +3177,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6644,
 			"label": {
 				"none": [
 					"d_36"
@@ -3418,22 +3233,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_39.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/5poyntmljycbeox3lem5o0vmxewp;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6681,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_39.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_39.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/5poyntmljycbeox3lem5o0vmxewp;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -3444,8 +3251,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6681,
 			"label": {
 				"none": [
 					"d_39"
@@ -3684,22 +3491,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_40.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/fman6vjr5b5a6vl1sc3iwgpmxw1j;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6700,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_40.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_40.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/fman6vjr5b5a6vl1sc3iwgpmxw1j;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -3710,8 +3509,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6700,
 			"label": {
 				"none": [
 					"d_40"
@@ -3835,22 +3634,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_42.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/rqgy04xe9hkr51bw15a1txstul8g;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6722,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_42.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_42.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/rqgy04xe9hkr51bw15a1txstul8g;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -3861,8 +3652,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6722,
 			"label": {
 				"none": [
 					"d_42"
@@ -4055,22 +3846,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_45.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/a5e6ppu0rygcale4mzgtbrq558m8;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6730,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_45.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_45.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/a5e6ppu0rygcale4mzgtbrq558m8;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -4081,8 +3864,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6730,
 			"label": {
 				"none": [
 					"d_45"
@@ -4321,22 +4104,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_46.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/tw26nhxmch58odbi5zyg4o4xsm9w;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6666,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_46.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_46.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/tw26nhxmch58odbi5zyg4o4xsm9w;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -4347,8 +4122,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6666,
 			"label": {
 				"none": [
 					"d_46"
@@ -4587,22 +4362,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_47.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/3oucibxsu23j92c6n8nlk4zmh6mc;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6710,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_47.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_47.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/3oucibxsu23j92c6n8nlk4zmh6mc;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -4613,8 +4380,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6710,
 			"label": {
 				"none": [
 					"d_47"
@@ -5129,22 +4896,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_48.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/2qnz05vi1pxmcrua1yxqy9lx3znq;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6706,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_48.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_48.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/2qnz05vi1pxmcrua1yxqy9lx3znq;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -5155,8 +4914,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6706,
 			"label": {
 				"none": [
 					"d_48"
@@ -5372,22 +5131,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_49.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/3mr583nb5emybejiy8tg3atxlv9y;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6710,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_49.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_49.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/3mr583nb5emybejiy8tg3atxlv9y;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -5398,8 +5149,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6710,
 			"label": {
 				"none": [
 					"d_49"
@@ -5707,22 +5458,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_50.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/wtgi4e0oiwh0h3373g3lgejhmj83;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6710,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_50.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_50.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/wtgi4e0oiwh0h3373g3lgejhmj83;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -5733,8 +5476,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6710,
 			"label": {
 				"none": [
 					"d_50"
@@ -5973,22 +5716,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_51.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/pe3doxfj6vrwhsuaseuvlbwksl8k;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6710,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_51.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_51.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/pe3doxfj6vrwhsuaseuvlbwksl8k;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -5999,8 +5734,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6710,
 			"label": {
 				"none": [
 					"d_51"
@@ -6285,22 +6020,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_52.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/hjzi7tgh3silggbzw82al86eujym;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6666,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_52.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_52.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/hjzi7tgh3silggbzw82al86eujym;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -6311,8 +6038,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6666,
 			"label": {
 				"none": [
 					"d_52"
@@ -6942,22 +6669,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_53.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/it048xufciffairsbesckzi8usjw;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6665,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_53.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_53.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/it048xufciffairsbesckzi8usjw;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -6968,8 +6687,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6665,
 			"label": {
 				"none": [
 					"d_53"
@@ -7162,22 +6881,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_55.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/r0hfls38lt4hyjtgze1f3ddrmj1q;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6719,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_55.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_55.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/r0hfls38lt4hyjtgze1f3ddrmj1q;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -7188,8 +6899,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6719,
 			"label": {
 				"none": [
 					"d_55"
@@ -7428,22 +7139,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_56.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/f4mc7kznfqy3py6hkqo962jr60pa;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6699,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_56.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_56.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/f4mc7kznfqy3py6hkqo962jr60pa;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -7454,8 +7157,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6699,
 			"label": {
 				"none": [
 					"d_56"
@@ -7671,22 +7374,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_59.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/892br3et7wjyhhmn6iaom0g0xjlw;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6730,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_59.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_59.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/892br3et7wjyhhmn6iaom0g0xjlw;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -7697,8 +7392,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6730,
 			"label": {
 				"none": [
 					"d_59"
@@ -7845,22 +7540,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_60.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/l6n4evmghly0qxl1g4aw2s6m2k3c;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6730,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_60.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_60.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/l6n4evmghly0qxl1g4aw2s6m2k3c;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -7871,8 +7558,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6730,
 			"label": {
 				"none": [
 					"d_60"
@@ -8272,22 +7959,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_61A.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/i4rftcc6rc2xywwv1u9mnu6sh6t8;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6716,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_61A.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_61A.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/i4rftcc6rc2xywwv1u9mnu6sh6t8;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -8298,8 +7977,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6716,
 			"label": {
 				"none": [
 					"d_61A"
@@ -8354,22 +8033,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_61B.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/tpf9j4147pkcf91r1qawad7x99wh;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6675,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_61B.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_61B.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/tpf9j4147pkcf91r1qawad7x99wh;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -8380,8 +8051,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6675,
 			"label": {
 				"none": [
 					"d_61B"
@@ -8436,22 +8107,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_64.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/nqkd0d86ijameolymabnrlvpbdnz;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6730,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_64.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_64.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/nqkd0d86ijameolymabnrlvpbdnz;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -8462,8 +8125,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6730,
 			"label": {
 				"none": [
 					"d_64"
@@ -8541,22 +8204,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_66.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/7lrq1s2t840xl561ms7szj2go87c;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6666,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_66.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_66.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/7lrq1s2t840xl561ms7szj2go87c;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -8567,8 +8222,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6666,
 			"label": {
 				"none": [
 					"d_66"
@@ -9060,22 +8715,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_67.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/gccb4o6b6u5895jxid0p7zwv1neb;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6658,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_67.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_67.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/gccb4o6b6u5895jxid0p7zwv1neb;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -9086,8 +8733,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6658,
 			"label": {
 				"none": [
 					"d_67"
@@ -9625,22 +9272,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_68.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/7s0psh1tadksmm08r8l9zafnwqu3;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6701,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_68.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_68.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/7s0psh1tadksmm08r8l9zafnwqu3;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -9651,8 +9290,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6701,
 			"label": {
 				"none": [
 					"d_68"
@@ -9799,22 +9438,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_69.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/jnp6x8971qyi1cbkmxh769hukzns;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6651,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_69.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_69.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/jnp6x8971qyi1cbkmxh769hukzns;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -9825,8 +9456,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6651,
 			"label": {
 				"none": [
 					"d_69"
@@ -10502,22 +10133,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_70.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/3b5veuiiksrtkhidcwjdkwqnxuva;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6667,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_70.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_70.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/3b5veuiiksrtkhidcwjdkwqnxuva;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -10528,8 +10151,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6667,
 			"label": {
 				"none": [
 					"d_70"
@@ -10906,22 +10529,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_71.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/8rp4gils9qkz9wfjlkb3814gyvcr;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6675,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_71.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_71.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/8rp4gils9qkz9wfjlkb3814gyvcr;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -10932,8 +10547,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6675,
 			"label": {
 				"none": [
 					"d_71"
@@ -10988,22 +10603,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_72.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/ckb2r1y1pcsbz5in3e8wj3pq6gcx;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6666,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_72.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_72.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/ckb2r1y1pcsbz5in3e8wj3pq6gcx;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -11014,8 +10621,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6666,
 			"label": {
 				"none": [
 					"d_72"
@@ -11070,22 +10677,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_75.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/scczutzllgh67miubfojp9ogigut;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6627,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_75.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_75.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/scczutzllgh67miubfojp9ogigut;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -11096,8 +10695,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6627,
 			"label": {
 				"none": [
 					"d_75"
@@ -11428,22 +11027,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_76.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/9ntffl0ve8aosfq53hymmi46a0y1;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6697,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_76.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_76.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/9ntffl0ve8aosfq53hymmi46a0y1;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -11454,8 +11045,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6697,
 			"label": {
 				"none": [
 					"d_76"
@@ -11740,22 +11331,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_77.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/zldox0h9opd5gu1u5prj7e18v9tm;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6712,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_77.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_77.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/zldox0h9opd5gu1u5prj7e18v9tm;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -11766,8 +11349,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6712,
 			"label": {
 				"none": [
 					"d_77"
@@ -11822,22 +11405,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_78.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/d3a61za5tlw5y3tprzxyucis5ina;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6727,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_78.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_78.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/d3a61za5tlw5y3tprzxyucis5ina;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -11848,8 +11423,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6727,
 			"label": {
 				"none": [
 					"d_78"
@@ -12180,22 +11755,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_79.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/4ddg8gf5unhey9szrxd6bau7dwqm;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6712,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_79.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_79.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/4ddg8gf5unhey9szrxd6bau7dwqm;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -12206,8 +11773,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6712,
 			"label": {
 				"none": [
 					"d_79"
@@ -12630,22 +12197,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_80.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/x0fdkwsxkpa382s4ajw3celp1kd7;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6693,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_80.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_80.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/x0fdkwsxkpa382s4ajw3celp1kd7;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -12656,8 +12215,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6693,
 			"label": {
 				"none": [
 					"d_80"
@@ -12919,22 +12478,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_81.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/3178ytkfabw1c4dp8650yw2dnioh;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6655,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_81.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_81.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/3178ytkfabw1c4dp8650yw2dnioh;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -12945,8 +12496,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6655,
 			"label": {
 				"none": [
 					"d_81"
@@ -13300,22 +12851,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_82.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/i8mai4rt2zjstxzh6tswedhy9eb6;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6638,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_82.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_82.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/i8mai4rt2zjstxzh6tswedhy9eb6;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -13326,8 +12869,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6638,
 			"label": {
 				"none": [
 					"d_82"
@@ -13658,22 +13201,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_84.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/cieu6cb4fvygho4nue00dojyb78x;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6664,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_84.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_84.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/cieu6cb4fvygho4nue00dojyb78x;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -13684,8 +13219,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6664,
 			"label": {
 				"none": [
 					"d_84"
@@ -14177,22 +13712,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_85.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/5302iez3216k9t4tgparpyqk72fb;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6723,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_85.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_85.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/5302iez3216k9t4tgparpyqk72fb;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -14203,8 +13730,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6723,
 			"label": {
 				"none": [
 					"d_85"
@@ -14637,55 +14164,6 @@
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/rboc-data/ec/RBOC-Draft-Fragments-100/iiif/canvas/",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/rboc-data/ec/RBOC-Draft-Fragments-100/iiif/canvas//annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/rboc-data/ec/RBOC-Draft-Fragments-100/iiif/canvas//annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "ms_047 ms_047 http://mel-iip.performantsoftware.com/iipsrv/iipsrv.fcgi?IIIF=crane/2-rboc-manuscript/rboc-ms_047.tif",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": null,
-								"width": null,
-								"service": [
-									{
-										"id": "ms_047 ms_047 http://mel-iip.performantsoftware.com/iipsrv/iipsrv.fcgi?IIIF=crane/2-rboc-manuscript/rboc-ms_047.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "ms_047 ms_047 http://mel-iip.performantsoftware.com/iipsrv/iipsrv.fcgi?IIIF=crane/2-rboc-manuscript/rboc-ms_047.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/rboc-data/ec/RBOC-Draft-Fragments-100/iiif/canvas/"
-						}
-					]
-				}
-			],
-			"height": null,
-			"width": null,
-			"label": {
-				"none": [
-					"d_86"
-				]
-			},
-			"annotations": []
-		},
-		{
 			"id": "https://performant-software.github.io/rboc-data/ec/RBOC-Draft-Fragments-100/iiif/canvas/rboc-d_90",
 			"type": "Canvas",
 			"items": [
@@ -14699,22 +14177,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_90.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/xx255hn0kloa7wk0lq4zu25vnwtm;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6695,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_90.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_90.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/xx255hn0kloa7wk0lq4zu25vnwtm;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -14725,8 +14195,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6695,
 			"label": {
 				"none": [
 					"d_90"
@@ -14942,22 +14412,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_91.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/wrnsn68y9qonmv9z64jljtsemd4u;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6646,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_91.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_91.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/wrnsn68y9qonmv9z64jljtsemd4u;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -14968,8 +14430,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6646,
 			"label": {
 				"none": [
 					"d_91"
@@ -15530,22 +14992,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_92.tif",
+								"id": "https://iiif.archivengine.com/iiif/3/n9hvd8bbz7t7kow2fyq4zd927qit;1",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": null,
-								"width": null,
+								"height": 8400,
+								"width": 6712,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_92.tif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://iip.textlab.org/?IIIF=crane/1-rboc-draft/rboc-d_92.tif/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
+										"id": "https://iiif.archivengine.com/iiif/3/n9hvd8bbz7t7kow2fyq4zd927qit;1",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -15556,8 +15010,8 @@
 					]
 				}
 			],
-			"height": null,
-			"width": null,
+			"height": 8400,
+			"width": 6712,
 			"label": {
 				"none": [
 					"d_92"
